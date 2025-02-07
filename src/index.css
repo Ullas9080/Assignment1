@@ -1,0 +1,16 @@
+.bg{
+background-image: url("../public/main.avif");
+
+}
+.img1{
+    background-image: url("../public/sub1.webp");
+    
+}
+.img2{
+    background-image: url("../public/sub2.webp");
+    
+}
+.img3{
+    background-image: url("../public/sub3.avif");
+    
+}
