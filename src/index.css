@@ -3,14 +3,14 @@ background-image: url("../public/main.avif");
 
 }
 .img1{
-    background-image: url("../public/sub1.webp");
+    background-image: url("../public/bathroom.avif");
     
 }
 .img2{
-    background-image: url("../public/sub2.webp");
+    background-image: url("../public/kitchen.avif");
     
 }
 .img3{
-    background-image: url("../public/sub3.avif");
+    background-image: url("../public/livingarea.avif");
     
 }
